@@ -8,6 +8,8 @@ Easy to insert countries in your select tag.
 
 <en>We have prepared a js function that automatically adds the names of countries in the world as options to the Select tag.</en>
 
+Try it out on here: https://tetsuakibaba.github.io/countriable.js/
+
 ## Getting Started
 
 1. Load the countriable.js file from the CDN.
