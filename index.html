@@ -11,13 +11,14 @@
 <body>
     <h1>Countriable</h1>
 
-    <label for="country-select">Choose a country:</label>
-    <select id="country-select" data-default="Japan">
+    <label for="countriable">Choose a country: </label>
+    <select id="countriable" data-default="Japan">
+        <option value="">Select your country</option>
     </select>
 
     <script src="countriable.js"></script>
     <script>
-        makeCountriable("select#country-select");
+        makeCountriable("select#countriable");
     </script>
 </body>
 

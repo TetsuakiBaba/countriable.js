@@ -1,7 +1,6 @@
 function makeCountriable(querySelector) {
     const select = document.querySelector(querySelector);
     const countries = [
-        "Select your nationality",
         "Afghanistan",
         "Albania",
         "Algeria",
